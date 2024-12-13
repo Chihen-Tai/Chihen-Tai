@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning chemistry
 - 📫 How to reach me microdaery@gapp.nthu.edu.tw
 - 😄 Pronouns: no
-- ⚡ Fun fact: 1+3=4
+- ⚡ Fun fact: I am elden lord
 
 <!---
 Chihen-Tai/Chihen-Tai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
